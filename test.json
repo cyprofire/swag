@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/cyprofire/swag/blob/master/test.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/cyprofire/swag/blob/master/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
